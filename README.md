@@ -1,1 +1,2 @@
 # LicensePlateRecognition
+简单的基于OpenCV&TensorFlow的车牌识别应用
